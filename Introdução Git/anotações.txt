@@ -1,0 +1,2 @@
+Link para download do primeiro repositório: https://github.com/ThatyannePrado/dio_desafio_github.git
+Git bash é um terminal para otimizar o uso do Git
